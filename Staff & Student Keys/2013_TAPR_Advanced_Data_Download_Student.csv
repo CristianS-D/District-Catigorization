@@ -1,0 +1,115 @@
+NAME,TYPE,LENGTH,LABEL
+DISTRICT,Character,6,District Number
+DPETDISC,Numeric,8,District 2012 DAEP: Count
+DPETDISD,Numeric,8,District 2012 DAEP: Denominator
+DPETDISP,Numeric,8,District 2012 DAEP: Percent
+DB0GR12N,Numeric,8,District 2012 Graduates: African American Count
+DB0GR12R,Numeric,8,District 2012 Graduates: African American Percent
+DA0GR12N,Numeric,8,District 2012 Graduates: All Students Count
+DA0GR12R,Numeric,8,District 2012 Graduates: All Students Percent
+D30GR12N,Numeric,8,District 2012 Graduates: Asian Count
+D30GR12R,Numeric,8,District 2012 Graduates: Asian Percent
+DH0GR12N,Numeric,8,District 2012 Graduates: Hispanic Count
+DH0GR12R,Numeric,8,District 2012 Graduates: Hispanic Percent
+DA0GM12N,Numeric,8,District 2012 Graduates: Minimum HS Pgm All Students Count
+DA0GM12R,Numeric,8,District 2012 Graduates: Minimum HS Pgm All Students Percent
+DI0GR12N,Numeric,8,District 2012 Graduates: Native American Count
+DI0GR12R,Numeric,8,District 2012 Graduates: Native American Percent
+D40GR12N,Numeric,8,District 2012 Graduates: Pacific Islander Count
+D40GR12R,Numeric,8,District 2012 Graduates: Pacific Islander Percent
+DA0GH12N,Numeric,8,District 2012 Graduates: Recommended HS Pgm All Students Count
+DA0GH12R,Numeric,8,District 2012 Graduates: Recommended HS Pgm All Students Percent
+DS0GR12N,Numeric,8,District 2012 Graduates: Special Ed Count
+DS0GR12R,Numeric,8,District 2012 Graduates: Special Ed Percent
+D20GR12N,Numeric,8,District 2012 Graduates: Two or More Races Count
+D20GR12R,Numeric,8,District 2012 Graduates: Two or More Races Percent
+DW0GR12N,Numeric,8,District 2012 Graduates: White Count
+DW0GR12R,Numeric,8,District 2012 Graduates: White Percent
+DPERRA1R,Numeric,8,District 2012 Retention: Regular Ed 01 Rate
+DPERRA2R,Numeric,8,District 2012 Retention: Regular Ed 02 Rate
+DPERRA3R,Numeric,8,District 2012 Retention: Regular Ed 03 Rate
+DPERRA4R,Numeric,8,District 2012 Retention: Regular Ed 04 Rate
+DPERRA5R,Numeric,8,District 2012 Retention: Regular Ed 05 Rate
+DPERRA6R,Numeric,8,District 2012 Retention: Regular Ed 06 Rate
+DPERRA7R,Numeric,8,District 2012 Retention: Regular Ed 07 Rate
+DPERRA8R,Numeric,8,District 2012 Retention: Regular Ed 08 Rate
+DPERRAKR,Numeric,8,District 2012 Retention: Regular Ed KG Rate
+DPERSA1R,Numeric,8,District 2012 Retention: Special Ed 01 Rate
+DPERSA2R,Numeric,8,District 2012 Retention: Special Ed 02 Rate
+DPERSA3R,Numeric,8,District 2012 Retention: Special Ed 03 Rate
+DPERSA4R,Numeric,8,District 2012 Retention: Special Ed 04 Rate
+DPERSA5R,Numeric,8,District 2012 Retention: Special Ed 05 Rate
+DPERSA6R,Numeric,8,District 2012 Retention: Special Ed 06 Rate
+DPERSA7R,Numeric,8,District 2012 Retention: Special Ed 07 Rate
+DPERSA8R,Numeric,8,District 2012 Retention: Special Ed 08 Rate
+DPERSAKR,Numeric,8,District 2012 Retention: Special Ed KG Rate
+DAUND12C,Numeric,8,District 2012 Underreported Students: Count
+DAUND12D,Numeric,8,District 2012 Underreported Students: Gr. 7-12 Total
+DAUND12R,Numeric,8,District 2012 Underreported Students: Rate
+DAPID13R,Numeric,8,District 2013 PID Error: Rate
+DAPID13D,Numeric,8,District 2013 PID Error: Total Student Records
+DAPID13N,Numeric,8,District 2013 PID Error: Z-PID Count
+DPETG01C,Numeric,8,District 2013 Student: 01 Count
+DPETG01P,Numeric,8,District 2013 Student: 01 Percent
+DPETG02C,Numeric,8,District 2013 Student: 02 Count
+DPETG02P,Numeric,8,District 2013 Student: 02 Percent
+DPETG03C,Numeric,8,District 2013 Student: 03 Count
+DPETG03P,Numeric,8,District 2013 Student: 03 Percent
+DPETG04C,Numeric,8,District 2013 Student: 04 Count
+DPETG04P,Numeric,8,District 2013 Student: 04 Percent
+DPETG05C,Numeric,8,District 2013 Student: 05 Count
+DPETG05P,Numeric,8,District 2013 Student: 05 Percent
+DPETG06C,Numeric,8,District 2013 Student: 06 Count
+DPETG06P,Numeric,8,District 2013 Student: 06 Percent
+DPETG07C,Numeric,8,District 2013 Student: 07 Count
+DPETG07P,Numeric,8,District 2013 Student: 07 Percent
+DPETG08C,Numeric,8,District 2013 Student: 08 Count
+DPETG08P,Numeric,8,District 2013 Student: 08 Percent
+DPETG09C,Numeric,8,District 2013 Student: 09 Count
+DPETG09P,Numeric,8,District 2013 Student: 09 Percent
+DPETG10C,Numeric,8,District 2013 Student: 10 Count
+DPETG10P,Numeric,8,District 2013 Student: 10 Percent
+DPETG11C,Numeric,8,District 2013 Student: 11 Count
+DPETG11P,Numeric,8,District 2013 Student: 11 Percent
+DPETG12C,Numeric,8,District 2013 Student: 12 Count
+DPETG12P,Numeric,8,District 2013 Student: 12 Percent
+DPEMALLT,Numeric,8,District 2013 Student: 2012 Mobility Denominator
+DPEMALLC,Numeric,8,District 2013 Student: 2012 Mobility Numerator
+DPEMALLP,Numeric,8,District 2013 Student: 2012 Mobility Percent
+DPETBLAC,Numeric,8,District 2013 Student: African American Count
+DPETBLAP,Numeric,8,District 2013 Student: African American Percent
+DPETALLC,Numeric,8,District 2013 Student: All Students Count
+DPETASIC,Numeric,8,District 2013 Student: Asian Count
+DPETASIP,Numeric,8,District 2013 Student: Asian Percent
+DPETRSKC,Numeric,8,District 2013 Student: At Risk Count
+DPETRSKP,Numeric,8,District 2013 Student: At Risk Percent
+DPETBILC,Numeric,8,District 2013 Student: Bilingual/ESL Count
+DPETBILP,Numeric,8,District 2013 Student: Bilingual/ESL Percent
+DPETVOCC,Numeric,8,District 2013 Student: Career & Technical Education Count
+DPETVOCP,Numeric,8,District 2013 Student: Career & Technical Education Percent
+DPETGEEC,Numeric,8,District 2013 Student: EE Count
+DPETGEEP,Numeric,8,District 2013 Student: EE Percent
+DPETECOC,Numeric,8,District 2013 Student: Econ Disadv Count
+DPETECOP,Numeric,8,District 2013 Student: Econ Disadv Percent
+DPETGIFC,Numeric,8,District 2013 Student: Gifted & Talented Count
+DPETGIFP,Numeric,8,District 2013 Student: Gifted & Talented Percent
+DPETHISC,Numeric,8,District 2013 Student: Hispanic Count
+DPETHISP,Numeric,8,District 2013 Student: Hispanic Percent
+DPETGKNC,Numeric,8,District 2013 Student: KG Count
+DPETGKNP,Numeric,8,District 2013 Student: KG Percent
+DPETLEPC,Numeric,8,District 2013 Student: LEP Count
+DPETLEPP,Numeric,8,District 2013 Student: LEP Percent
+DPETINDC,Numeric,8,District 2013 Student: Native American Count
+DPETINDP,Numeric,8,District 2013 Student: Native American Percent
+DPETNEDC,Numeric,8,District 2013 Student: Non-Educationally Disadv Count
+DPETNEDP,Numeric,8,District 2013 Student: Non-Educationally Disadv Percent
+DPETGPKC,Numeric,8,District 2013 Student: PK Count
+DPETGPKP,Numeric,8,District 2013 Student: PK Percent
+DPETPCIC,Numeric,8,District 2013 Student: Pacific Islander Count
+DPETPCIP,Numeric,8,District 2013 Student: Pacific Islander Percent
+DPETSPEC,Numeric,8,District 2013 Student: Special Ed Count
+DPETSPEP,Numeric,8,District 2013 Student: Special Ed Percent
+DPETTWOC,Numeric,8,District 2013 Student: Two or More Races Count
+DPETTWOP,Numeric,8,District 2013 Student: Two or More Races Percent
+DPETWHIC,Numeric,8,District 2013 Student: White Count
+DPETWHIP,Numeric,8,District 2013 Student: White Percent

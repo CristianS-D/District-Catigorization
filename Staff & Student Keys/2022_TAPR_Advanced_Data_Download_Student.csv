@@ -1,0 +1,272 @@
+NAME,TYPE,LENGTH,LABEL
+DISTRICT,Character,6,District Number
+DAUND21C,Numeric,8,District 2021 Underreported Students: Count
+DAUND21D,Numeric,8,District 2021 Underreported Students: Gr. 7-12 Total
+DAUND21R,Numeric,8,District 2021 Underreported Students: Rate
+DISTNAME,Character,75,District Name
+DPCTENGA,Numeric,8,District 2022 Class Size: Sec English - Avg Size
+DPCTENGC,Numeric,8,District 2022 Class Size: Sec English - # Classes
+DPCTENGS,Numeric,8,District 2022 Class Size: Sec English - # Students
+DPCTFLAA,Numeric,8,District 2022 Class Size: Sec For Lng - Avg Size
+DPCTFLAC,Numeric,8,District 2022 Class Size: Sec For Lng - # Classes
+DPCTFLAS,Numeric,8,District 2022 Class Size: Sec For Lng - # Students
+DPCTG01A,Numeric,8,District 2022 Class Size: Grade 1     - Avg Size
+DPCTG01C,Numeric,8,District 2022 Class Size: Grade 1     - # Classes
+DPCTG01S,Numeric,8,District 2022 Class Size: Grade 1     - # Students
+DPCTG02A,Numeric,8,District 2022 Class Size: Grade 2     - Avg Size
+DPCTG02C,Numeric,8,District 2022 Class Size: Grade 2     - # Classes
+DPCTG02S,Numeric,8,District 2022 Class Size: Grade 2     - # Students
+DPCTG03A,Numeric,8,District 2022 Class Size: Grade 3     - Avg Size
+DPCTG03C,Numeric,8,District 2022 Class Size: Grade 3     - # Classes
+DPCTG03S,Numeric,8,District 2022 Class Size: Grade 3     - # Students
+DPCTG04A,Numeric,8,District 2022 Class Size: Grade 4     - Avg Size
+DPCTG04C,Numeric,8,District 2022 Class Size: Grade 4     - # Classes
+DPCTG04S,Numeric,8,District 2022 Class Size: Grade 4     - # Students
+DPCTG05A,Numeric,8,District 2022 Class Size: Grade 5     - Avg Size
+DPCTG05C,Numeric,8,District 2022 Class Size: Grade 5     - # Classes
+DPCTG05S,Numeric,8,District 2022 Class Size: Grade 5     - # Students
+DPCTG06A,Numeric,8,District 2022 Class Size: Grade 6     - Avg Size
+DPCTG06C,Numeric,8,District 2022 Class Size: Grade 6     - # Classes
+DPCTG06S,Numeric,8,District 2022 Class Size: Grade 6     - # Students
+DPCTGKGA,Numeric,8,District 2022 Class Size: Kindergarten- Avg Size
+DPCTGKGC,Numeric,8,District 2022 Class Size: Kindergarten- # Classes
+DPCTGKGS,Numeric,8,District 2022 Class Size: Kindergarten- # Students
+DPCTGMEA,Numeric,8,District 2022 Class Size: Mixed Elem. - Avg Size
+DPCTGMEC,Numeric,8,District 2022 Class Size: Mixed Elem. - # Classes
+DPCTGMES,Numeric,8,District 2022 Class Size: Mixed Elem. - # Students
+DPCTMATA,Numeric,8,District 2022 Class Size: Sec Math    - Avg Size
+DPCTMATC,Numeric,8,District 2022 Class Size: Sec Math    - # Classes
+DPCTMATS,Numeric,8,District 2022 Class Size: Sec Math    - # Students
+DPCTSCIA,Numeric,8,District 2022 Class Size: Sec Sci     - Avg Size
+DPCTSCIC,Numeric,8,District 2022 Class Size: Sec Sci     - # Classes
+DPCTSCIS,Numeric,8,District 2022 Class Size: Sec Sci     - # Students
+DPCTSOCA,Numeric,8,District 2022 Class Size: Sec Soc Stud- Avg Size
+DPCTSOCC,Numeric,8,District 2022 Class Size: Sec Soc Stud- # Classes
+DPCTSOCS,Numeric,8,District 2022 Class Size: Sec Soc Stud- # Students
+DPEMALLC,Numeric,8,District 2022 Student Membership: 2021 Mobility All Students Count
+DPEMALLP,Numeric,8,District 2022 Student Membership: 2021 Mobility All Students Percent
+DPEMALLT,Numeric,8,District 2022 Student Membership: 2021 Mobility All Students Denominator
+DPEMASIC,Numeric,8,District 2022 Student Membership: 2021 Mobility Asian Count
+DPEMASIP,Numeric,8,District 2022 Student Membership: 2021 Mobility Asian Percent
+DPEMBLAC,Numeric,8,District 2022 Student Membership: 2021 Mobility African American Count
+DPEMBLAP,Numeric,8,District 2022 Student Membership: 2021 Mobility African American Percent
+DPEMECOC,Numeric,8,District 2022 Student Membership: 2021 Mobility Econ Disadv Count
+DPEMECOP,Numeric,8,District 2022 Student Membership: 2021 Mobility Econ Disadv Percent
+DPEMECOT,Numeric,8,District 2022 Student Membership: 2021 Mobility Econ Disadv Denominator
+DPEMHISC,Numeric,8,District 2022 Student Membership: 2021 Mobility Hispanic Count
+DPEMHISP,Numeric,8,District 2022 Student Membership: 2021 Mobility Hispanic Percent
+DPEMINDC,Numeric,8,District 2022 Student Membership: 2021 Mobility American Indian Count
+DPEMINDP,Numeric,8,District 2022 Student Membership: 2021 Mobility American Indian Percent
+DPEMLEPC,Numeric,8,District 2022 Student Membership: 2021 Mobility EB/EL Count
+DPEMLEPP,Numeric,8,District 2022 Student Membership: 2021 Mobility EB/EL Percent
+DPEMLEPT,Numeric,8,District 2022 Student Membership: 2021 Mobility EB/EL Denominator
+DPEMPCIC,Numeric,8,District 2022 Student Membership: 2021 Mobility Pacific Islander Count
+DPEMPCIP,Numeric,8,District 2022 Student Membership: 2021 Mobility Pacific Islander Percent
+DPEMSPEC,Numeric,8,District 2022 Student Membership: 2021 Mobility Special Ed Count
+DPEMSPEP,Numeric,8,District 2022 Student Membership: 2021 Mobility Special Ed Percent
+DPEMSPET,Numeric,8,District 2022 Student Membership: 2021 Mobility Special Ed Denominator
+DPEMTWOC,Numeric,8,District 2022 Student Membership: 2021 Mobility Two or More Races Count
+DPEMTWOP,Numeric,8,District 2022 Student Membership: 2021 Mobility Two or More Races Percent
+DPEMWHIC,Numeric,8,District 2022 Student Membership: 2021 Mobility White Count
+DPEMWHIP,Numeric,8,District 2022 Student Membership: 2021 Mobility White Percent
+DPERRA1R,Numeric,8,District 2021 Retention: Regular Ed 01 Rate
+DPERRA2R,Numeric,8,District 2021 Retention: Regular Ed 02 Rate
+DPERRA3R,Numeric,8,District 2021 Retention: Regular Ed 03 Rate
+DPERRA4R,Numeric,8,District 2021 Retention: Regular Ed 04 Rate
+DPERRA5R,Numeric,8,District 2021 Retention: Regular Ed 05 Rate
+DPERRA6R,Numeric,8,District 2021 Retention: Regular Ed 06 Rate
+DPERRA7R,Numeric,8,District 2021 Retention: Regular Ed 07 Rate
+DPERRA8R,Numeric,8,District 2021 Retention: Regular Ed 08 Rate
+DPERRA9R,Numeric,8,District 2021 Retention: Regular Ed 09 Rate
+DPERRAKR,Numeric,8,District 2021 Retention: Regular Ed KG Rate
+DPERSA1R,Numeric,8,District 2021 Retention: Special Ed 01 Rate
+DPERSA2R,Numeric,8,District 2021 Retention: Special Ed 02 Rate
+DPERSA3R,Numeric,8,District 2021 Retention: Special Ed 03 Rate
+DPERSA4R,Numeric,8,District 2021 Retention: Special Ed 04 Rate
+DPERSA5R,Numeric,8,District 2021 Retention: Special Ed 05 Rate
+DPERSA6R,Numeric,8,District 2021 Retention: Special Ed 06 Rate
+DPERSA7R,Numeric,8,District 2021 Retention: Special Ed 07 Rate
+DPERSA8R,Numeric,8,District 2021 Retention: Special Ed 08 Rate
+DPERSA9R,Numeric,8,District 2021 Retention: Special Ed 09 Rate
+DPERSAKR,Numeric,8,District 2021 Retention: Special Ed KG Rate
+DPET504C,Numeric,8,District 2022 Student Membership: Section 504 Count
+DPET504P,Numeric,8,District 2022 Student Membership: Section 504 Percent
+DPETALLC,Numeric,8,District 2022 Student Membership: All Students Count
+DPETASIC,Numeric,8,District 2022 Student Membership: Asian Count
+DPETASIP,Numeric,8,District 2022 Student Membership: Asian Percent
+DPETATTC,Numeric,8,District 2022 Student Membership: 2020-21 Attrition All Students Count
+DPETATTD,Numeric,8,District 2022 Student Membership: 2020-21 Attrition All Students Denominator
+DPETATTP,Numeric,8,District 2022 Student Membership: 2020-21 Attrition All Students Percent
+DPETBILC,Numeric,8,District 2022 Student Membership: Bilingual/ESL Count
+DPETBILP,Numeric,8,District 2022 Student Membership: Bilingual/ESL Percent
+DPETBLAC,Numeric,8,District 2022 Student Membership: African American Count
+DPETBLAP,Numeric,8,District 2022 Student Membership: African American Percent
+DPETDISC,Numeric,8,District 2021 DAEP: Count
+DPETDISD,Numeric,8,District 2021 DAEP: Denominator
+DPETDISP,Numeric,8,District 2021 DAEP: Percent
+DPETDSLC,Numeric,8,District 2022 Student Membership: Dyslexia Count
+DPETDSLP,Numeric,8,District 2022 Student Membership: Dyslexia Percent
+DPETECOC,Numeric,8,District 2022 Student Membership: Econ Disadv Count
+DPETECOP,Numeric,8,District 2022 Student Membership: Econ Disadv Percent
+DPETFEMC,Numeric,8,District 2022 Student Membership: Female Count
+DPETFEMP,Numeric,8,District 2022 Student Membership: Female Percent
+DPETFOSC,Numeric,8,District 2022 Student Membership: Foster Care Count
+DPETFOSP,Numeric,8,District 2022 Student Membership: Foster Care Percent
+DPETG01C,Numeric,8,District 2022 Student Membership: 01 Count
+DPETG01P,Numeric,8,District 2022 Student Membership: 01 Percent
+DPETG02C,Numeric,8,District 2022 Student Membership: 02 Count
+DPETG02P,Numeric,8,District 2022 Student Membership: 02 Percent
+DPETG03C,Numeric,8,District 2022 Student Membership: 03 Count
+DPETG03P,Numeric,8,District 2022 Student Membership: 03 Percent
+DPETG04C,Numeric,8,District 2022 Student Membership: 04 Count
+DPETG04P,Numeric,8,District 2022 Student Membership: 04 Percent
+DPETG05C,Numeric,8,District 2022 Student Membership: 05 Count
+DPETG05P,Numeric,8,District 2022 Student Membership: 05 Percent
+DPETG06C,Numeric,8,District 2022 Student Membership: 06 Count
+DPETG06P,Numeric,8,District 2022 Student Membership: 06 Percent
+DPETG07C,Numeric,8,District 2022 Student Membership: 07 Count
+DPETG07P,Numeric,8,District 2022 Student Membership: 07 Percent
+DPETG08C,Numeric,8,District 2022 Student Membership: 08 Count
+DPETG08P,Numeric,8,District 2022 Student Membership: 08 Percent
+DPETG09C,Numeric,8,District 2022 Student Membership: 09 Count
+DPETG09P,Numeric,8,District 2022 Student Membership: 09 Percent
+DPETG10C,Numeric,8,District 2022 Student Membership: 10 Count
+DPETG10P,Numeric,8,District 2022 Student Membership: 10 Percent
+DPETG11C,Numeric,8,District 2022 Student Membership: 11 Count
+DPETG11P,Numeric,8,District 2022 Student Membership: 11 Percent
+DPETG12C,Numeric,8,District 2022 Student Membership: 12 Count
+DPETG12P,Numeric,8,District 2022 Student Membership: 12 Percent
+DPETG9XC,Numeric,8,District 2022 Student Membership: 09-12 Count
+DPETGEEC,Numeric,8,District 2022 Student Membership: EE Count
+DPETGEEP,Numeric,8,District 2022 Student Membership: EE Percent
+DPETGIFC,Numeric,8,District 2022 Student Membership: Gifted & Talented Count
+DPETGIFP,Numeric,8,District 2022 Student Membership: Gifted & Talented Percent
+DPETGKNC,Numeric,8,District 2022 Student Membership: KG Count
+DPETGKNP,Numeric,8,District 2022 Student Membership: KG Percent
+DPETGPKC,Numeric,8,District 2022 Student Membership: PK Count
+DPETGPKP,Numeric,8,District 2022 Student Membership: PK Percent
+DPETHISC,Numeric,8,District 2022 Student Membership: Hispanic Count
+DPETHISP,Numeric,8,District 2022 Student Membership: Hispanic Percent
+DPETHOMC,Numeric,8,District 2022 Student Membership: Homeless Count
+DPETHOMP,Numeric,8,District 2022 Student Membership: Homeless Percent
+DPETIMMC,Numeric,8,District 2022 Student Membership: Immigrant Count
+DPETIMMP,Numeric,8,District 2022 Student Membership: Immigrant Percent
+DPETINDC,Numeric,8,District 2022 Student Membership: American Indian Count
+DPETINDP,Numeric,8,District 2022 Student Membership: American Indian Percent
+DPETLEPC,Numeric,8,District 2022 Student Membership: EB/EL Count
+DPETLEPP,Numeric,8,District 2022 Student Membership: EB/EL Percent
+DPETMALC,Numeric,8,District 2022 Student Membership: Male Count
+DPETMALP,Numeric,8,District 2022 Student Membership: Male Percent
+DPETMIGC,Numeric,8,District 2022 Student Membership: Migrant Count
+DPETMIGP,Numeric,8,District 2022 Student Membership: Migrant Percent
+DPETMLCC,Numeric,8,District 2022 Student Membership: Military-Connected Count
+DPETMLCP,Numeric,8,District 2022 Student Membership: Military-Connected Percent
+DPETNEDC,Numeric,8,District 2022 Student Membership: Non-Educationally Disadv Count
+DPETNEDP,Numeric,8,District 2022 Student Membership: Non-Educationally Disadv Percent
+DPETPCIC,Numeric,8,District 2022 Student Membership: Pacific Islander Count
+DPETPCIP,Numeric,8,District 2022 Student Membership: Pacific Islander Percent
+DPETRSKC,Numeric,8,District 2022 Student Membership: At Risk Count
+DPETRSKP,Numeric,8,District 2022 Student Membership: At Risk Percent
+DPETSAUC,Numeric,8,District 2022 Student Membership: Autism Count
+DPETSAUP,Numeric,8,District 2022 Student Membership: Autism Percent
+DPETSBHC,Numeric,8,District 2022 Student Membership: Behavioral Disabilities Count
+DPETSBHP,Numeric,8,District 2022 Student Membership: Behavioral Disabilities Percent
+DPETSIMC,Numeric,8,District 2022 Student Membership: Total Students with Disabilities Count
+DPETSINC,Numeric,8,District 2022 Student Membership: Intellectual Disabilities Count
+DPETSINP,Numeric,8,District 2022 Student Membership: Intellectual Disabilities Percent
+DPETSNOC,Numeric,8,District 2022 Student Membership: Non-Categorical Early Childhood Count
+DPETSNOP,Numeric,8,District 2022 Student Membership: Non-Categorical Early Childhood Percent
+DPETSPEC,Numeric,8,District 2022 Student Membership: Special Ed Count
+DPETSPEP,Numeric,8,District 2022 Student Membership: Special Ed Percent
+DPETSPHC,Numeric,8,District 2022 Student Membership: Physical Disabilities Count
+DPETSPHP,Numeric,8,District 2022 Student Membership: Physical Disabilities Percent
+DPETTT1C,Numeric,8,District 2022 Student Membership: Title I Count
+DPETTT1P,Numeric,8,District 2022 Student Membership: Title I Percent
+DPETTWOC,Numeric,8,District 2022 Student Membership: Two or More Races Count
+DPETTWOP,Numeric,8,District 2022 Student Membership: Two or More Races Percent
+DPETVHSC,Numeric,8,District 2022 Student Membership: Career & Technical (9-12) Education Count
+DPETVHSP,Numeric,8,District 2022 Student Membership: Career & Technical (9-12) Education Percent
+DPETVOCC,Numeric,8,District 2022 Student Membership: Career & Technical Education Count
+DPETVOCP,Numeric,8,District 2022 Student Membership: Career & Technical Education Percent
+DPETWHIC,Numeric,8,District 2022 Student Membership: White Count
+DPETWHIP,Numeric,8,District 2022 Student Membership: White Percent
+DPNT504C,Numeric,8,District 2022 Student Enrollment: Section 504 Count
+DPNT504P,Numeric,8,District 2022 Student Enrollment: Section 504 Percent
+DPNTALLC,Numeric,8,District 2022 Student Enrollment: All Students Count
+DPNTALLP,Numeric,8,District 2022 Student Enrollment: All Students Percent
+DPNTASIC,Numeric,8,District 2022 Student Enrollment: Asian Count
+DPNTASIP,Numeric,8,District 2022 Student Enrollment: Asian Percent
+DPNTBILC,Numeric,8,District 2022 Student Enrollment: Bilingual/ESL Count
+DPNTBILP,Numeric,8,District 2022 Student Enrollment: Bilingual/ESL Percent
+DPNTBLAC,Numeric,8,District 2022 Student Enrollment: African American Count
+DPNTBLAP,Numeric,8,District 2022 Student Enrollment: African American Percent
+DPNTDSLC,Numeric,8,District 2022 Student Enrollment: Dyslexia Count
+DPNTDSLP,Numeric,8,District 2022 Student Enrollment: Dyslexia Percent
+DPNTECOC,Numeric,8,District 2022 Student Enrollment: Econ Disadv Count
+DPNTECOP,Numeric,8,District 2022 Student Enrollment: Econ Disadv Percent
+DPNTFEMC,Numeric,8,District 2022 Student Enrollment: Female Count
+DPNTFEMP,Numeric,8,District 2022 Student Enrollment: Female Percent
+DPNTFOSC,Numeric,8,District 2022 Student Enrollment: Foster Care Count
+DPNTFOSP,Numeric,8,District 2022 Student Enrollment: Foster Care Percent
+DPNTG01C,Numeric,8,District 2022 Student Enrollment: 01 Count
+DPNTG01P,Numeric,8,District 2022 Student Enrollment: 01 Percent
+DPNTG02C,Numeric,8,District 2022 Student Enrollment: 02 Count
+DPNTG02P,Numeric,8,District 2022 Student Enrollment: 02 Percent
+DPNTG03C,Numeric,8,District 2022 Student Enrollment: 03 Count
+DPNTG03P,Numeric,8,District 2022 Student Enrollment: 03 Percent
+DPNTG04C,Numeric,8,District 2022 Student Enrollment: 04 Count
+DPNTG04P,Numeric,8,District 2022 Student Enrollment: 04 Percent
+DPNTG05C,Numeric,8,District 2022 Student Enrollment: 05 Count
+DPNTG05P,Numeric,8,District 2022 Student Enrollment: 05 Percent
+DPNTG06C,Numeric,8,District 2022 Student Enrollment: 06 Count
+DPNTG06P,Numeric,8,District 2022 Student Enrollment: 06 Percent
+DPNTG07C,Numeric,8,District 2022 Student Enrollment: 07 Count
+DPNTG07P,Numeric,8,District 2022 Student Enrollment: 07 Percent
+DPNTG08C,Numeric,8,District 2022 Student Enrollment: 08 Count
+DPNTG08P,Numeric,8,District 2022 Student Enrollment: 08 Percent
+DPNTG09C,Numeric,8,District 2022 Student Enrollment: 09 Count
+DPNTG09P,Numeric,8,District 2022 Student Enrollment: 09 Percent
+DPNTG10C,Numeric,8,District 2022 Student Enrollment: 10 Count
+DPNTG10P,Numeric,8,District 2022 Student Enrollment: 10 Percent
+DPNTG11C,Numeric,8,District 2022 Student Enrollment: 11 Count
+DPNTG11P,Numeric,8,District 2022 Student Enrollment: 11 Percent
+DPNTG12C,Numeric,8,District 2022 Student Enrollment: 12 Count
+DPNTG12P,Numeric,8,District 2022 Student Enrollment: 12 Percent
+DPNTGEEC,Numeric,8,District 2022 Student Enrollment: EE Count
+DPNTGEEP,Numeric,8,District 2022 Student Enrollment: EE Percent
+DPNTGIFC,Numeric,8,District 2022 Student Enrollment: Gifted & Talented Count
+DPNTGIFP,Numeric,8,District 2022 Student Enrollment: Gifted & Talented Percent
+DPNTGKNC,Numeric,8,District 2022 Student Enrollment: KG Count
+DPNTGKNP,Numeric,8,District 2022 Student Enrollment: KG Percent
+DPNTGPKC,Numeric,8,District 2022 Student Enrollment: PK Count
+DPNTGPKP,Numeric,8,District 2022 Student Enrollment: PK Percent
+DPNTHISC,Numeric,8,District 2022 Student Enrollment: Hispanic Count
+DPNTHISP,Numeric,8,District 2022 Student Enrollment: Hispanic Percent
+DPNTHOMC,Numeric,8,District 2022 Student Enrollment: Homeless Count
+DPNTHOMP,Numeric,8,District 2022 Student Enrollment: Homeless Percent
+DPNTIMMC,Numeric,8,District 2022 Student Enrollment: Immigrant Count
+DPNTIMMP,Numeric,8,District 2022 Student Enrollment: Immigrant Percent
+DPNTINDC,Numeric,8,District 2022 Student Enrollment: American Indian Count
+DPNTINDP,Numeric,8,District 2022 Student Enrollment: American Indian Percent
+DPNTLEPC,Numeric,8,District 2022 Student Enrollment: EL Count
+DPNTLEPP,Numeric,8,District 2022 Student Enrollment: EL Percent
+DPNTMALC,Numeric,8,District 2022 Student Enrollment: Male Count
+DPNTMALP,Numeric,8,District 2022 Student Enrollment: Male Percent
+DPNTMIGC,Numeric,8,District 2022 Student Enrollment: Migrant Count
+DPNTMIGP,Numeric,8,District 2022 Student Enrollment: Migrant Percent
+DPNTMLCC,Numeric,8,District 2022 Student Enrollment: Military-Connected Count
+DPNTMLCP,Numeric,8,District 2022 Student Enrollment: Military-Connected Percent
+DPNTNEDC,Numeric,8,District 2022 Student Enrollment: Non-Educationally Disadv Count
+DPNTNEDP,Numeric,8,District 2022 Student Enrollment: Non-Educationally Disadv Percent
+DPNTPCIC,Numeric,8,District 2022 Student Enrollment: Pacific Islander Count
+DPNTPCIP,Numeric,8,District 2022 Student Enrollment: Pacific Islander Percent
+DPNTRSKC,Numeric,8,District 2022 Student Enrollment: At Risk Count
+DPNTRSKP,Numeric,8,District 2022 Student Enrollment: At Risk Percent
+DPNTSPEC,Numeric,8,District 2022 Student Enrollment: Special Ed Count
+DPNTSPEP,Numeric,8,District 2022 Student Enrollment: Special Ed Percent
+DPNTTT1C,Numeric,8,District 2022 Student Enrollment: Title I Count
+DPNTTT1P,Numeric,8,District 2022 Student Enrollment: Title I Percent
+DPNTTWOC,Numeric,8,District 2022 Student Enrollment: Two or More Races Count
+DPNTTWOP,Numeric,8,District 2022 Student Enrollment: Two or More Races Percent
+DPNTWHIC,Numeric,8,District 2022 Student Enrollment: White Count
+DPNTWHIP,Numeric,8,District 2022 Student Enrollment: White Percent

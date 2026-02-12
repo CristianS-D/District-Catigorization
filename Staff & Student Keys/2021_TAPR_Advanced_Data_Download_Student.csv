@@ -1,0 +1,267 @@
+NAME,TYPE,LENGTH,LABEL
+DISTRICT,Character,6,District Number
+DAUND20C,Numeric,8,District 2020 Underreported Students: Count
+DAUND20D,Numeric,8,District 2020 Underreported Students: Gr. 7-12 Total
+DAUND20R,Numeric,8,District 2020 Underreported Students: Rate
+DISTNAME,Character,34,District Name
+DPCTENGA,Numeric,8,District 2021 Class Size: Sec English - Avg Size
+DPCTENGC,Numeric,8,District 2021 Class Size: Sec English - # Classes
+DPCTENGS,Numeric,8,District 2021 Class Size: Sec English - # Students
+DPCTFLAA,Numeric,8,District 2021 Class Size: Sec For Lng - Avg Size
+DPCTFLAC,Numeric,8,District 2021 Class Size: Sec For Lng - # Classes
+DPCTFLAS,Numeric,8,District 2021 Class Size: Sec For Lng - # Students
+DPCTG01A,Numeric,8,District 2021 Class Size: Grade 1     - Avg Size
+DPCTG01C,Numeric,8,District 2021 Class Size: Grade 1     - # Classes
+DPCTG01S,Numeric,8,District 2021 Class Size: Grade 1     - # Students
+DPCTG02A,Numeric,8,District 2021 Class Size: Grade 2     - Avg Size
+DPCTG02C,Numeric,8,District 2021 Class Size: Grade 2     - # Classes
+DPCTG02S,Numeric,8,District 2021 Class Size: Grade 2     - # Students
+DPCTG03A,Numeric,8,District 2021 Class Size: Grade 3     - Avg Size
+DPCTG03C,Numeric,8,District 2021 Class Size: Grade 3     - # Classes
+DPCTG03S,Numeric,8,District 2021 Class Size: Grade 3     - # Students
+DPCTG04A,Numeric,8,District 2021 Class Size: Grade 4     - Avg Size
+DPCTG04C,Numeric,8,District 2021 Class Size: Grade 4     - # Classes
+DPCTG04S,Numeric,8,District 2021 Class Size: Grade 4     - # Students
+DPCTG05A,Numeric,8,District 2021 Class Size: Grade 5     - Avg Size
+DPCTG05C,Numeric,8,District 2021 Class Size: Grade 5     - # Classes
+DPCTG05S,Numeric,8,District 2021 Class Size: Grade 5     - # Students
+DPCTG06A,Numeric,8,District 2021 Class Size: Grade 6     - Avg Size
+DPCTG06C,Numeric,8,District 2021 Class Size: Grade 6     - # Classes
+DPCTG06S,Numeric,8,District 2021 Class Size: Grade 6     - # Students
+DPCTGKGA,Numeric,8,District 2021 Class Size: Kindergarten- Avg Size
+DPCTGKGC,Numeric,8,District 2021 Class Size: Kindergarten- # Classes
+DPCTGKGS,Numeric,8,District 2021 Class Size: Kindergarten- # Students
+DPCTGMEA,Numeric,8,District 2021 Class Size: Mixed Elem. - Avg Size
+DPCTGMEC,Numeric,8,District 2021 Class Size: Mixed Elem. - # Classes
+DPCTGMES,Numeric,8,District 2021 Class Size: Mixed Elem. - # Students
+DPCTMATA,Numeric,8,District 2021 Class Size: Sec Math    - Avg Size
+DPCTMATC,Numeric,8,District 2021 Class Size: Sec Math    - # Classes
+DPCTMATS,Numeric,8,District 2021 Class Size: Sec Math    - # Students
+DPCTSCIA,Numeric,8,District 2021 Class Size: Sec Sci     - Avg Size
+DPCTSCIC,Numeric,8,District 2021 Class Size: Sec Sci     - # Classes
+DPCTSCIS,Numeric,8,District 2021 Class Size: Sec Sci     - # Students
+DPCTSOCA,Numeric,8,District 2021 Class Size: Sec Soc Stud- Avg Size
+DPCTSOCC,Numeric,8,District 2021 Class Size: Sec Soc Stud- # Classes
+DPCTSOCS,Numeric,8,District 2021 Class Size: Sec Soc Stud- # Students
+DPEMALLC,Numeric,8,District 2021 Student Membership: 2020 Mobility All Students Count
+DPEMALLP,Numeric,8,District 2021 Student Membership: 2020 Mobility All Students Percent
+DPEMALLT,Numeric,8,District 2021 Student Membership: 2020 Mobility All Students Denominator
+DPEMASIC,Numeric,8,District 2021 Student Membership: 2020 Mobility Asian Count
+DPEMASIP,Numeric,8,District 2021 Student Membership: 2020 Mobility Asian Percent
+DPEMBLAC,Numeric,8,District 2021 Student Membership: 2020 Mobility African American Count
+DPEMBLAP,Numeric,8,District 2021 Student Membership: 2020 Mobility African American Percent
+DPEMECOC,Numeric,8,District 2021 Student Membership: 2020 Mobility Econ Disadv Count
+DPEMECOP,Numeric,8,District 2021 Student Membership: 2020 Mobility Econ Disadv Percent
+DPEMECOT,Numeric,8,District 2021 Student Membership: 2020 Mobility Econ Disadv Denominator
+DPEMHISC,Numeric,8,District 2021 Student Membership: 2020 Mobility Hispanic Count
+DPEMHISP,Numeric,8,District 2021 Student Membership: 2020 Mobility Hispanic Percent
+DPEMINDC,Numeric,8,District 2021 Student Membership: 2020 Mobility American Indian Count
+DPEMINDP,Numeric,8,District 2021 Student Membership: 2020 Mobility American Indian Percent
+DPEMLEPC,Numeric,8,District 2021 Student Membership: 2020 Mobility EL Count
+DPEMLEPP,Numeric,8,District 2021 Student Membership: 2020 Mobility EL Percent
+DPEMLEPT,Numeric,8,District 2021 Student Membership: 2020 Mobility EL Denominator
+DPEMPCIC,Numeric,8,District 2021 Student Membership: 2020 Mobility Pacific Islander Count
+DPEMPCIP,Numeric,8,District 2021 Student Membership: 2020 Mobility Pacific Islander Percent
+DPEMSPEC,Numeric,8,District 2021 Student Membership: 2020 Mobility Special Ed Count
+DPEMSPEP,Numeric,8,District 2021 Student Membership: 2020 Mobility Special Ed Percent
+DPEMSPET,Numeric,8,District 2021 Student Membership: 2020 Mobility Special Ed Denominator
+DPEMTWOC,Numeric,8,District 2021 Student Membership: 2020 Mobility Two or More Races Count
+DPEMTWOP,Numeric,8,District 2021 Student Membership: 2020 Mobility Two or More Races Percent
+DPEMWHIC,Numeric,8,District 2021 Student Membership: 2020 Mobility White Count
+DPEMWHIP,Numeric,8,District 2021 Student Membership: 2020 Mobility White Percent
+DPERRA1R,Numeric,8,District 2020 Retention: Regular Ed 01 Rate
+DPERRA2R,Numeric,8,District 2020 Retention: Regular Ed 02 Rate
+DPERRA3R,Numeric,8,District 2020 Retention: Regular Ed 03 Rate
+DPERRA4R,Numeric,8,District 2020 Retention: Regular Ed 04 Rate
+DPERRA5R,Numeric,8,District 2020 Retention: Regular Ed 05 Rate
+DPERRA6R,Numeric,8,District 2020 Retention: Regular Ed 06 Rate
+DPERRA7R,Numeric,8,District 2020 Retention: Regular Ed 07 Rate
+DPERRA8R,Numeric,8,District 2020 Retention: Regular Ed 08 Rate
+DPERRA9R,Numeric,8,District 2020 Retention: Regular Ed 09 Rate
+DPERRAKR,Numeric,8,District 2020 Retention: Regular Ed KG Rate
+DPERSA1R,Numeric,8,District 2020 Retention: Special Ed 01 Rate
+DPERSA2R,Numeric,8,District 2020 Retention: Special Ed 02 Rate
+DPERSA3R,Numeric,8,District 2020 Retention: Special Ed 03 Rate
+DPERSA4R,Numeric,8,District 2020 Retention: Special Ed 04 Rate
+DPERSA5R,Numeric,8,District 2020 Retention: Special Ed 05 Rate
+DPERSA6R,Numeric,8,District 2020 Retention: Special Ed 06 Rate
+DPERSA7R,Numeric,8,District 2020 Retention: Special Ed 07 Rate
+DPERSA8R,Numeric,8,District 2020 Retention: Special Ed 08 Rate
+DPERSA9R,Numeric,8,District 2020 Retention: Special Ed 09 Rate
+DPERSAKR,Numeric,8,District 2020 Retention: Special Ed KG Rate
+DPET504C,Numeric,8,District 2021 Student Membership: Section 504 Count
+DPET504P,Numeric,8,District 2021 Student Membership: Section 504 Percent
+DPETALLC,Numeric,8,District 2021 Student Membership: All Students Count
+DPETASIC,Numeric,8,District 2021 Student Membership: Asian Count
+DPETASIP,Numeric,8,District 2021 Student Membership: Asian Percent
+DPETATTC,Numeric,8,District 2021 Student Membership: 2019-20 Attrition All Students Count
+DPETATTD,Numeric,8,District 2021 Student Membership: 2019-20 Attrition All Students Denominator
+DPETATTP,Numeric,8,District 2021 Student Membership: 2019-20 Attrition All Students Percent
+DPETBILC,Numeric,8,District 2021 Student Membership: Bilingual/ESL Count
+DPETBILP,Numeric,8,District 2021 Student Membership: Bilingual/ESL Percent
+DPETBLAC,Numeric,8,District 2021 Student Membership: African American Count
+DPETBLAP,Numeric,8,District 2021 Student Membership: African American Percent
+DPETDISC,Numeric,8,District 2020 DAEP: Count
+DPETDISD,Numeric,8,District 2020 DAEP: Denominator
+DPETDISP,Numeric,8,District 2020 DAEP: Percent
+DPETDSLC,Numeric,8,District 2021 Student Membership: Dyslexia Count
+DPETDSLP,Numeric,8,District 2021 Student Membership: Dyslexia Percent
+DPETECOC,Numeric,8,District 2021 Student Membership: Econ Disadv Count
+DPETECOP,Numeric,8,District 2021 Student Membership: Econ Disadv Percent
+DPETFEMC,Numeric,8,District 2021 Student Membership: Female Count
+DPETFEMP,Numeric,8,District 2021 Student Membership: Female Percent
+DPETFOSC,Numeric,8,District 2021 Student Membership: Foster Care Count
+DPETFOSP,Numeric,8,District 2021 Student Membership: Foster Care Percent
+DPETG01C,Numeric,8,District 2021 Student Membership: 01 Count
+DPETG01P,Numeric,8,District 2021 Student Membership: 01 Percent
+DPETG02C,Numeric,8,District 2021 Student Membership: 02 Count
+DPETG02P,Numeric,8,District 2021 Student Membership: 02 Percent
+DPETG03C,Numeric,8,District 2021 Student Membership: 03 Count
+DPETG03P,Numeric,8,District 2021 Student Membership: 03 Percent
+DPETG04C,Numeric,8,District 2021 Student Membership: 04 Count
+DPETG04P,Numeric,8,District 2021 Student Membership: 04 Percent
+DPETG05C,Numeric,8,District 2021 Student Membership: 05 Count
+DPETG05P,Numeric,8,District 2021 Student Membership: 05 Percent
+DPETG06C,Numeric,8,District 2021 Student Membership: 06 Count
+DPETG06P,Numeric,8,District 2021 Student Membership: 06 Percent
+DPETG07C,Numeric,8,District 2021 Student Membership: 07 Count
+DPETG07P,Numeric,8,District 2021 Student Membership: 07 Percent
+DPETG08C,Numeric,8,District 2021 Student Membership: 08 Count
+DPETG08P,Numeric,8,District 2021 Student Membership: 08 Percent
+DPETG09C,Numeric,8,District 2021 Student Membership: 09 Count
+DPETG09P,Numeric,8,District 2021 Student Membership: 09 Percent
+DPETG10C,Numeric,8,District 2021 Student Membership: 10 Count
+DPETG10P,Numeric,8,District 2021 Student Membership: 10 Percent
+DPETG11C,Numeric,8,District 2021 Student Membership: 11 Count
+DPETG11P,Numeric,8,District 2021 Student Membership: 11 Percent
+DPETG12C,Numeric,8,District 2021 Student Membership: 12 Count
+DPETG12P,Numeric,8,District 2021 Student Membership: 12 Percent
+DPETGEEC,Numeric,8,District 2021 Student Membership: EE Count
+DPETGEEP,Numeric,8,District 2021 Student Membership: EE Percent
+DPETGIFC,Numeric,8,District 2021 Student Membership: Gifted & Talented Count
+DPETGIFP,Numeric,8,District 2021 Student Membership: Gifted & Talented Percent
+DPETGKNC,Numeric,8,District 2021 Student Membership: KG Count
+DPETGKNP,Numeric,8,District 2021 Student Membership: KG Percent
+DPETGPKC,Numeric,8,District 2021 Student Membership: PK Count
+DPETGPKP,Numeric,8,District 2021 Student Membership: PK Percent
+DPETHISC,Numeric,8,District 2021 Student Membership: Hispanic Count
+DPETHISP,Numeric,8,District 2021 Student Membership: Hispanic Percent
+DPETHOMC,Numeric,8,District 2021 Student Membership: Homeless Count
+DPETHOMP,Numeric,8,District 2021 Student Membership: Homeless Percent
+DPETIMMC,Numeric,8,District 2021 Student Membership: Immigrant Count
+DPETIMMP,Numeric,8,District 2021 Student Membership: Immigrant Percent
+DPETINDC,Numeric,8,District 2021 Student Membership: American Indian Count
+DPETINDP,Numeric,8,District 2021 Student Membership: American Indian Percent
+DPETLEPC,Numeric,8,District 2021 Student Membership: EL Count
+DPETLEPP,Numeric,8,District 2021 Student Membership: EL Percent
+DPETMALC,Numeric,8,District 2021 Student Membership: Male Count
+DPETMALP,Numeric,8,District 2021 Student Membership: Male Percent
+DPETMIGC,Numeric,8,District 2021 Student Membership: Migrant Count
+DPETMIGP,Numeric,8,District 2021 Student Membership: Migrant Percent
+DPETMLCC,Numeric,8,District 2021 Student Membership: Military-Connected Count
+DPETMLCP,Numeric,8,District 2021 Student Membership: Military-Connected Percent
+DPETNEDC,Numeric,8,District 2021 Student Membership: Non-Educationally Disadv Count
+DPETNEDP,Numeric,8,District 2021 Student Membership: Non-Educationally Disadv Percent
+DPETPCIC,Numeric,8,District 2021 Student Membership: Pacific Islander Count
+DPETPCIP,Numeric,8,District 2021 Student Membership: Pacific Islander Percent
+DPETRSKC,Numeric,8,District 2021 Student Membership: At Risk Count
+DPETRSKP,Numeric,8,District 2021 Student Membership: At Risk Percent
+DPETSAUC,Numeric,8,District 2021 Student Membership: Autism Count
+DPETSAUP,Numeric,8,District 2021 Student Membership: Autism Percent
+DPETSBHC,Numeric,8,District 2021 Student Membership: Behavioral Disabilities Count
+DPETSBHP,Numeric,8,District 2021 Student Membership: Behavioral Disabilities Percent
+DPETSIMC,Numeric,8,District 2021 Student Membership: Total Students with Disabilities Count
+DPETSINC,Numeric,8,District 2021 Student Membership: Intellectual Disabilities Count
+DPETSINP,Numeric,8,District 2021 Student Membership: Intellectual Disabilities Percent
+DPETSNOC,Numeric,8,District 2021 Student Membership: Non-Categorical Early Childhood Count
+DPETSNOP,Numeric,8,District 2021 Student Membership: Non-Categorical Early Childhood Percent
+DPETSPEC,Numeric,8,District 2021 Student Membership: Special Ed Count
+DPETSPEP,Numeric,8,District 2021 Student Membership: Special Ed Percent
+DPETSPHC,Numeric,8,District 2021 Student Membership: Physical Disabilities Count
+DPETSPHP,Numeric,8,District 2021 Student Membership: Physical Disabilities Percent
+DPETTT1C,Numeric,8,District 2021 Student Membership: Title I Count
+DPETTT1P,Numeric,8,District 2021 Student Membership: Title I Percent
+DPETTWOC,Numeric,8,District 2021 Student Membership: Two or More Races Count
+DPETTWOP,Numeric,8,District 2021 Student Membership: Two or More Races Percent
+DPETWHIC,Numeric,8,District 2021 Student Membership: White Count
+DPETWHIP,Numeric,8,District 2021 Student Membership: White Percent
+DPNT504C,Numeric,8,District 2020-21 Section 504 Students Count
+DPNT504P,Numeric,8,District 2020-21 Section 504 Students Percent
+DPNTALLC,Numeric,8,District 2020-21 Total Students Count
+DPNTALLP,Numeric,8,District 2020-21 Total Students Percent
+DPNTASIC,Numeric,8,District 2020-21 Asian Students Count
+DPNTASIP,Numeric,8,District 2020-21 Asian Students Percent
+DPNTBILC,Numeric,8,District 2020-21 Bilingual/ESL Education Students Count
+DPNTBILP,Numeric,8,District 2020-21 Bilingual/ESL Education Students Percent
+DPNTBLAC,Numeric,8,District 2020-21 African American Students Count
+DPNTBLAP,Numeric,8,District 2020-21 African American Students Percent
+DPNTDSLC,Numeric,8,District 2020-21 Students with Dyslexia Count
+DPNTDSLP,Numeric,8,District 2020-21 Students with Dyslexia Percent
+DPNTECOC,Numeric,8,District 2020-21 Economically Disadvantaged Students Count
+DPNTECOP,Numeric,8,District 2020-21 Economically Disadvantaged Students Percent
+DPNTFEMC,Numeric,8,District 2020-21 Female Students Count
+DPNTFEMP,Numeric,8,District 2020-21 Female Students Percent
+DPNTFOSC,Numeric,8,District 2020-21 Foster Care Students Count
+DPNTFOSP,Numeric,8,District 2020-21 Foster Care Students Percent
+DPNTG01C,Numeric,8,District 2020-21 Grade 1 Students Count
+DPNTG01P,Numeric,8,District 2020-21 Grade 1 Students Percent
+DPNTG02C,Numeric,8,District 2020-21 Grade 2 Students Count
+DPNTG02P,Numeric,8,District 2020-21 Grade 2 Students Percent
+DPNTG03C,Numeric,8,District 2020-21 Grade 3 Students Count
+DPNTG03P,Numeric,8,District 2020-21 Grade 3 Students Percent
+DPNTG04C,Numeric,8,District 2020-21 Grade 4 Students Count
+DPNTG04P,Numeric,8,District 2020-21 Grade 4 Students Percent
+DPNTG05C,Numeric,8,District 2020-21 Grade 5 Students Count
+DPNTG05P,Numeric,8,District 2020-21 Grade 5 Students Percent
+DPNTG06C,Numeric,8,District 2020-21 Grade 6 Students Count
+DPNTG06P,Numeric,8,District 2020-21 Grade 6 Students Percent
+DPNTG07C,Numeric,8,District 2020-21 Grade 7 Students Count
+DPNTG07P,Numeric,8,District 2020-21 Grade 7 Students Percent
+DPNTG08C,Numeric,8,District 2020-21 Grade 8 Students Count
+DPNTG08P,Numeric,8,District 2020-21 Grade 8 Students Percent
+DPNTG09C,Numeric,8,District 2020-21 Grade 9 Students Count
+DPNTG09P,Numeric,8,District 2020-21 Grade 9 Students Percent
+DPNTG10C,Numeric,8,District 2020-21 Grade 10 Students Count
+DPNTG10P,Numeric,8,District 2020-21 Grade 10 Students Percent
+DPNTG11C,Numeric,8,District 2020-21 Grade 11 Students Count
+DPNTG11P,Numeric,8,District 2020-21 Grade 11 Students Percent
+DPNTG12C,Numeric,8,District 2020-21 Grade 12 Students Count
+DPNTG12P,Numeric,8,District 2020-21 Grade 12 Students Percent
+DPNTGEEC,Numeric,8,District 2020-21 Early Childhood Education Students Count
+DPNTGEEP,Numeric,8,District 2020-21 Early Childhood Education Students Percent
+DPNTGIFC,Numeric,8,District 2020-21 Gifted & Talented Education Students Count
+DPNTGIFP,Numeric,8,District 2020-21 Gifted & Talented Education Students Percent
+DPNTGKNC,Numeric,8,District 2020-21 Kindergarten Students Count
+DPNTGKNP,Numeric,8,District 2020-21 Kindergarten Students Percent
+DPNTGPKC,Numeric,8,District 2020-21 Pre-Kindergarten Students Count
+DPNTGPKP,Numeric,8,District 2020-21 Pre-Kindergarten Students Percent
+DPNTHISC,Numeric,8,District 2020-21 Hispanic Students Count
+DPNTHISP,Numeric,8,District 2020-21 Hispanic Students Percent
+DPNTHOMC,Numeric,8,District 2020-21 Homeless Students Count
+DPNTHOMP,Numeric,8,District 2020-21 Homeless Students Percent
+DPNTIMMC,Numeric,8,District 2020-21 Immigrant Students Count
+DPNTIMMP,Numeric,8,District 2020-21 Immigrant Students Percent
+DPNTINDC,Numeric,8,District 2020-21 American Indian Students Count
+DPNTINDP,Numeric,8,District 2020-21 American Indian Students Percent
+DPNTLEPC,Numeric,8,District 2020-21 English Learners Students Count
+DPNTLEPP,Numeric,8,District 2020-21 English Learners Students Percent
+DPNTMALC,Numeric,8,District 2020-21 Male Students Count
+DPNTMALP,Numeric,8,District 2020-21 Male Students Percent
+DPNTMIGC,Numeric,8,District 2020-21 Migrant Students Count
+DPNTMIGP,Numeric,8,District 2020-21 Migrant Students Percent
+DPNTMLCC,Numeric,8,District 2020-21 Military Connected Students Count
+DPNTMLCP,Numeric,8,District 2020-21 Military Connected Students Percent
+DPNTNEDC,Numeric,8,District 2020-21 Non-Educationally Disadvantaged Students Count
+DPNTNEDP,Numeric,8,District 2020-21 Non-Educationally Disadvantaged Students Percent
+DPNTPCIC,Numeric,8,District 2020-21 Pacific Islander Students Count
+DPNTPCIP,Numeric,8,District 2020-21 Pacific Islander Students Percent
+DPNTRSKC,Numeric,8,District 2020-21 At-Risk Students Count
+DPNTRSKP,Numeric,8,District 2020-21 At-Risk Students Percent
+DPNTSPEC,Numeric,8,District 2020-21 Special Education Students Count
+DPNTSPEP,Numeric,8,District 2020-21 Special Education Students Percent
+DPNTTT1C,Numeric,8,District 2020-21 Title I Students Count
+DPNTTT1P,Numeric,8,District 2020-21 Title I Students percent
+DPNTTWOC,Numeric,8,District 2020-21 Two or More Races Students Count
+DPNTTWOP,Numeric,8,District 2020-21 Two or More Races Students Percent
+DPNTWHIC,Numeric,8,District 2020-21 White Students Count
+DPNTWHIP,Numeric,8,District 2020-21 White Students Percent

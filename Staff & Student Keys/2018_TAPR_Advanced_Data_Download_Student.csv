@@ -1,0 +1,103 @@
+NAME,TYPE,LENGTH,LABEL
+DISTRICT,Character,6,District Number
+DPETGEEC,Numeric,8,District 2018 Student: EE Count
+DPETGEEP,Numeric,8,District 2018 Student: EE Percent
+DPETGPKC,Numeric,8,District 2018 Student: PK Count
+DPETGPKP,Numeric,8,District 2018 Student: PK Percent
+DPETGKNC,Numeric,8,District 2018 Student: KG Count
+DPETGKNP,Numeric,8,District 2018 Student: KG Percent
+DPETG01C,Numeric,8,District 2018 Student: 01 Count
+DPETG01P,Numeric,8,District 2018 Student: 01 Percent
+DPETG02C,Numeric,8,District 2018 Student: 02 Count
+DPETG02P,Numeric,8,District 2018 Student: 02 Percent
+DPETG03C,Numeric,8,District 2018 Student: 03 Count
+DPETG03P,Numeric,8,District 2018 Student: 03 Percent
+DPETG04C,Numeric,8,District 2018 Student: 04 Count
+DPETG04P,Numeric,8,District 2018 Student: 04 Percent
+DPETG05C,Numeric,8,District 2018 Student: 05 Count
+DPETG05P,Numeric,8,District 2018 Student: 05 Percent
+DPETG06C,Numeric,8,District 2018 Student: 06 Count
+DPETG06P,Numeric,8,District 2018 Student: 06 Percent
+DPETG07C,Numeric,8,District 2018 Student: 07 Count
+DPETG07P,Numeric,8,District 2018 Student: 07 Percent
+DPETG08C,Numeric,8,District 2018 Student: 08 Count
+DPETG08P,Numeric,8,District 2018 Student: 08 Percent
+DPETG09C,Numeric,8,District 2018 Student: 09 Count
+DPETG09P,Numeric,8,District 2018 Student: 09 Percent
+DPETG10C,Numeric,8,District 2018 Student: 10 Count
+DPETG10P,Numeric,8,District 2018 Student: 10 Percent
+DPETG11C,Numeric,8,District 2018 Student: 11 Count
+DPETG11P,Numeric,8,District 2018 Student: 11 Percent
+DPETG12C,Numeric,8,District 2018 Student: 12 Count
+DPETG12P,Numeric,8,District 2018 Student: 12 Percent
+DPETBLAC,Numeric,8,District 2018 Student: African American Count
+DPETBLAP,Numeric,8,District 2018 Student: African American Percent
+DPETALLC,Numeric,8,District 2018 Student: All Students Count
+DPETINDC,Numeric,8,District 2018 Student: American Indian Count
+DPETINDP,Numeric,8,District 2018 Student: American Indian Percent
+DPETASIC,Numeric,8,District 2018 Student: Asian Count
+DPETASIP,Numeric,8,District 2018 Student: Asian Percent
+DPETHISC,Numeric,8,District 2018 Student: Hispanic Count
+DPETHISP,Numeric,8,District 2018 Student: Hispanic Percent
+DPETPCIC,Numeric,8,District 2018 Student: Pacific Islander Count
+DPETPCIP,Numeric,8,District 2018 Student: Pacific Islander Percent
+DPETTWOC,Numeric,8,District 2018 Student: Two or More Races Count
+DPETTWOP,Numeric,8,District 2018 Student: Two or More Races Percent
+DPETWHIC,Numeric,8,District 2018 Student: White Count
+DPETWHIP,Numeric,8,District 2018 Student: White Percent
+DPETDISC,Numeric,8,District 2017 DAEP: Count
+DPETDISD,Numeric,8,District 2017 DAEP: Denominator
+DPETDISP,Numeric,8,District 2017 DAEP: Percent
+DPETRSKC,Numeric,8,District 2018 Student: At Risk Count
+DPETRSKP,Numeric,8,District 2018 Student: At Risk Percent
+DPETECOC,Numeric,8,District 2018 Student: Econ Disadv Count
+DPETECOP,Numeric,8,District 2018 Student: Econ Disadv Percent
+DPETLEPC,Numeric,8,District 2018 Student: LEP Count
+DPETLEPP,Numeric,8,District 2018 Student: LEP Percent
+DPETNEDC,Numeric,8,District 2018 Student: Non-Educationally Disadv Count
+DPETNEDP,Numeric,8,District 2018 Student: Non-Educationally Disadv Percent
+DPETSAUC,Numeric,8,District 2018 Student: Autism Count
+DPETSAUP,Numeric,8,District 2018 Student: Autism Percent
+DPETSBHC,Numeric,8,District 2018 Student: Behavioral Disabilities Count
+DPETSBHP,Numeric,8,District 2018 Student: Behavioral Disabilities Percent
+DPETSINC,Numeric,8,District 2018 Student: Intellectual Disabilities Count
+DPETSINP,Numeric,8,District 2018 Student: Intellectual Disabilities Percent
+DPETSNOC,Numeric,8,District 2018 Student: Non-Categorical Early Childhood Count
+DPETSNOP,Numeric,8,District 2018 Student: Non-Categorical Early Childhood Percent
+DPETSPHC,Numeric,8,District 2018 Student: Physical Disabilities Count
+DPETSPHP,Numeric,8,District 2018 Student: Physical Disabilities Percent
+DPETSIMC,Numeric,8,District 2018 Student: Total Students with Disabilities Count
+DPETBILC,Numeric,8,District 2018 Student: Bilingual/ESL Count
+DPETBILP,Numeric,8,District 2018 Student: Bilingual/ESL Percent
+DPETVOCC,Numeric,8,District 2018 Student: Career & Technical Education Count
+DPETVOCP,Numeric,8,District 2018 Student: Career & Technical Education Percent
+DPETGIFC,Numeric,8,District 2018 Student: Gifted & Talented Count
+DPETGIFP,Numeric,8,District 2018 Student: Gifted & Talented Percent
+DPETSPEC,Numeric,8,District 2018 Student: Special Ed Count
+DPETSPEP,Numeric,8,District 2018 Student: Special Ed Percent
+DPEMALLC,Numeric,8,District 2018 Student: 2017 Mobility All Students Count
+DPEMALLT,Numeric,8,District 2018 Student: 2017 Mobility All Students Denominator
+DPEMALLP,Numeric,8,District 2018 Student: 2017 Mobility All Students Percent
+DPERRA1R,Numeric,8,District 2017 Retention: Regular Ed 01 Rate
+DPERRA2R,Numeric,8,District 2017 Retention: Regular Ed 02 Rate
+DPERRA3R,Numeric,8,District 2017 Retention: Regular Ed 03 Rate
+DPERRA4R,Numeric,8,District 2017 Retention: Regular Ed 04 Rate
+DPERRA5R,Numeric,8,District 2017 Retention: Regular Ed 05 Rate
+DPERRA6R,Numeric,8,District 2017 Retention: Regular Ed 06 Rate
+DPERRA7R,Numeric,8,District 2017 Retention: Regular Ed 07 Rate
+DPERRA8R,Numeric,8,District 2017 Retention: Regular Ed 08 Rate
+DPERRA9R,Numeric,8,District 2017 Retention: Regular Ed 09 Rate
+DPERRAKR,Numeric,8,District 2017 Retention: Regular Ed KG Rate
+DPERSA1R,Numeric,8,District 2017 Retention: Special Ed 01 Rate
+DPERSA2R,Numeric,8,District 2017 Retention: Special Ed 02 Rate
+DPERSA3R,Numeric,8,District 2017 Retention: Special Ed 03 Rate
+DPERSA4R,Numeric,8,District 2017 Retention: Special Ed 04 Rate
+DPERSA5R,Numeric,8,District 2017 Retention: Special Ed 05 Rate
+DPERSA6R,Numeric,8,District 2017 Retention: Special Ed 06 Rate
+DPERSA7R,Numeric,8,District 2017 Retention: Special Ed 07 Rate
+DPERSA8R,Numeric,8,District 2017 Retention: Special Ed 08 Rate
+DPERSA9R,Numeric,8,District 2017 Retention: Special Ed 09 Rate
+DPERSAKR,Numeric,8,District 2017 Retention: Special Ed KG Rate
+DAUND17C,Numeric,8,District 2017 Underreported Students: Count
+DAUND17D,Numeric,8,District 2017 Underreported Students: Gr. 7-12 Total
+DAUND17R,Numeric,8,District 2017 Underreported Students: Rate

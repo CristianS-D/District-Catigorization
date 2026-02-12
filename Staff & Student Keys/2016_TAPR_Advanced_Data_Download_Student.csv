@@ -1,0 +1,124 @@
+NAME,TYPE,LENGTH,LABEL
+DISTRICT,Character,6,District Number
+DPETGEEC,Numeric,8,District 2016 Student: EE Count
+DPETGEEP,Numeric,8,District 2016 Student: EE Percent
+DPETGPKC,Numeric,8,District 2016 Student: PK Count
+DPETGPKP,Numeric,8,District 2016 Student: PK Percent
+DPETGKNC,Numeric,8,District 2016 Student: KG Count
+DPETGKNP,Numeric,8,District 2016 Student: KG Percent
+DPETG01C,Numeric,8,District 2016 Student: 01 Count
+DPETG01P,Numeric,8,District 2016 Student: 01 Percent
+DPETG02C,Numeric,8,District 2016 Student: 02 Count
+DPETG02P,Numeric,8,District 2016 Student: 02 Percent
+DPETG03C,Numeric,8,District 2016 Student: 03 Count
+DPETG03P,Numeric,8,District 2016 Student: 03 Percent
+DPETG04C,Numeric,8,District 2016 Student: 04 Count
+DPETG04P,Numeric,8,District 2016 Student: 04 Percent
+DPETG05C,Numeric,8,District 2016 Student: 05 Count
+DPETG05P,Numeric,8,District 2016 Student: 05 Percent
+DPETG06C,Numeric,8,District 2016 Student: 06 Count
+DPETG06P,Numeric,8,District 2016 Student: 06 Percent
+DPETG07C,Numeric,8,District 2016 Student: 07 Count
+DPETG07P,Numeric,8,District 2016 Student: 07 Percent
+DPETG08C,Numeric,8,District 2016 Student: 08 Count
+DPETG08P,Numeric,8,District 2016 Student: 08 Percent
+DPETG09C,Numeric,8,District 2016 Student: 09 Count
+DPETG09P,Numeric,8,District 2016 Student: 09 Percent
+DPETG10C,Numeric,8,District 2016 Student: 10 Count
+DPETG10P,Numeric,8,District 2016 Student: 10 Percent
+DPETG11C,Numeric,8,District 2016 Student: 11 Count
+DPETG11P,Numeric,8,District 2016 Student: 11 Percent
+DPETG12C,Numeric,8,District 2016 Student: 12 Count
+DPETG12P,Numeric,8,District 2016 Student: 12 Percent
+DPETBLAC,Numeric,8,District 2016 Student: African American Count
+DPETBLAP,Numeric,8,District 2016 Student: African American Percent
+DPETALLC,Numeric,8,District 2016 Student: All Students Count
+DPETASIC,Numeric,8,District 2016 Student: Asian Count
+DPETASIP,Numeric,8,District 2016 Student: Asian Percent
+DPETRSKC,Numeric,8,District 2016 Student: At Risk Count
+DPETRSKP,Numeric,8,District 2016 Student: At Risk Percent
+DPETBILC,Numeric,8,District 2016 Student: Bilingual/ESL Count
+DPETBILP,Numeric,8,District 2016 Student: Bilingual/ESL Percent
+DPETVOCC,Numeric,8,District 2016 Student: Career & Technical Education Count
+DPETVOCP,Numeric,8,District 2016 Student: Career & Technical Education Percent
+DPETECOC,Numeric,8,District 2016 Student: Econ Disadv Count
+DPETECOP,Numeric,8,District 2016 Student: Econ Disadv Percent
+DPETGIFC,Numeric,8,District 2016 Student: Gifted & Talented Count
+DPETGIFP,Numeric,8,District 2016 Student: Gifted & Talented Percent
+DPETHISC,Numeric,8,District 2016 Student: Hispanic Count
+DPETHISP,Numeric,8,District 2016 Student: Hispanic Percent
+DPETLEPC,Numeric,8,District 2016 Student: LEP Count
+DPETLEPP,Numeric,8,District 2016 Student: LEP Percent
+DPETINDC,Numeric,8,District 2016 Student: Native American Count
+DPETINDP,Numeric,8,District 2016 Student: Native American Percent
+DPETNEDC,Numeric,8,District 2016 Student: Non-Educationally Disadv Count
+DPETNEDP,Numeric,8,District 2016 Student: Non-Educationally Disadv Percent
+DPETPCIC,Numeric,8,District 2016 Student: Pacific Islander Count
+DPETPCIP,Numeric,8,District 2016 Student: Pacific Islander Percent
+DPETSPEC,Numeric,8,District 2016 Student: Special Ed Count
+DPETSPEP,Numeric,8,District 2016 Student: Special Ed Percent
+DPETTWOC,Numeric,8,District 2016 Student: Two or More Races Count
+DPETTWOP,Numeric,8,District 2016 Student: Two or More Races Percent
+DPETWHIC,Numeric,8,District 2016 Student: White Count
+DPETWHIP,Numeric,8,District 2016 Student: White Percent
+DPEMALLT,Numeric,8,District 2016 Student: 2015 Mobility Denominator
+DPEMALLC,Numeric,8,District 2016 Student: 2015 Mobility Numerator
+DPEMALLP,Numeric,8,District 2016 Student: 2015 Mobility Percent
+DB0GR15N,Numeric,8,District 2015 Graduates: African American Count
+DB0GR15R,Numeric,8,District 2015 Graduates: African American Student Group %
+DA0GR15N,Numeric,8,District 2015 Graduates: All Students Count (including FHSP)
+DA0GR15R,Numeric,8,District 2015 Graduates: All Students Group %
+DI0GR15N,Numeric,8,District 2015 Graduates: American Indian Count
+DI0GR15R,Numeric,8,District 2015 Graduates: American Indian Student Group %
+D30GR15N,Numeric,8,District 2015 Graduates: Asian Count
+D30GR15R,Numeric,8,District 2015 Graduates: Asian Student Group %
+DR0GR15N,Numeric,8,District 2015 Graduates: At Risk Count
+DR0GR15R,Numeric,8,District 2015 Graduates: At Risk Student Group %
+DE0GR15N,Numeric,8,District 2015 Graduates: Econ Disadv Count
+DE0GR15R,Numeric,8,District 2015 Graduates: Econ Disadv Student Group %
+DA0GA15P,Numeric,8,District 2015 Graduates: FHSP Distinguished Level of Achievement All Students % (Profile Only)
+DA0GA15N,Numeric,8,District 2015 Graduates: FHSP Distinguished Level of Achievement All Students Count
+DA0GE15P,Numeric,8,District 2015 Graduates: FHSP Endorsement All Students % (Profile Only)
+DA0GE15N,Numeric,8,District 2015 Graduates: FHSP Endorsement All Students Count
+DA0GN15P,Numeric,8,District 2015 Graduates: FHSP No Endorsement All Students % (Profile Only)
+DA0GN15N,Numeric,8,District 2015 Graduates: FHSP No Endorsement All Students Count
+DH0GR15N,Numeric,8,District 2015 Graduates: Hispanic Count
+DH0GR15R,Numeric,8,District 2015 Graduates: Hispanic Student Group %
+DL0GR15N,Numeric,8,District 2015 Graduates: LEP Count
+DL0GR15R,Numeric,8,District 2015 Graduates: LEP Student Group %
+DA0GM15N,Numeric,8,District 2015 Graduates: MINIMUM HS PGM All Students Count
+DA0GM15P,Numeric,8,District 2015 Graduates: Minimum HS PGM All Students % (Profile Only)
+D40GR15N,Numeric,8,District 2015 Graduates: Pacific Islander Count
+D40GR15R,Numeric,8,District 2015 Graduates: Pacific Islander Student Group %
+DA0GH15P,Numeric,8,District 2015 Graduates: RHSP/DAP All Students % (Profile Only)
+DA0GH15N,Numeric,8,District 2015 Graduates: RHSP/DAP All Students Count
+DS0GR15N,Numeric,8,District 2015 Graduates: Special Ed Count
+DS0GR15R,Numeric,8,District 2015 Graduates: Special Ed Student Group %
+D20GR15N,Numeric,8,District 2015 Graduates: Two or More Races Count
+D20GR15R,Numeric,8,District 2015 Graduates: Two or More Races Student Group %
+DW0GR15N,Numeric,8,District 2015 Graduates: White Count
+DW0GR15R,Numeric,8,District 2015 Graduates: White Student Group %
+DPERRA1R,Numeric,8,District 2015 Retention: Regular Ed 01 Rate
+DPERRA2R,Numeric,8,District 2015 Retention: Regular Ed 02 Rate
+DPERRA3R,Numeric,8,District 2015 Retention: Regular Ed 03 Rate
+DPERRA4R,Numeric,8,District 2015 Retention: Regular Ed 04 Rate
+DPERRA5R,Numeric,8,District 2015 Retention: Regular Ed 05 Rate
+DPERRA6R,Numeric,8,District 2015 Retention: Regular Ed 06 Rate
+DPERRA7R,Numeric,8,District 2015 Retention: Regular Ed 07 Rate
+DPERRA8R,Numeric,8,District 2015 Retention: Regular Ed 08 Rate
+DPERRAKR,Numeric,8,District 2015 Retention: Regular Ed KG Rate
+DPERSA1R,Numeric,8,District 2015 Retention: Special Ed 01 Rate
+DPERSA2R,Numeric,8,District 2015 Retention: Special Ed 02 Rate
+DPERSA3R,Numeric,8,District 2015 Retention: Special Ed 03 Rate
+DPERSA4R,Numeric,8,District 2015 Retention: Special Ed 04 Rate
+DPERSA5R,Numeric,8,District 2015 Retention: Special Ed 05 Rate
+DPERSA6R,Numeric,8,District 2015 Retention: Special Ed 06 Rate
+DPERSA7R,Numeric,8,District 2015 Retention: Special Ed 07 Rate
+DPERSA8R,Numeric,8,District 2015 Retention: Special Ed 08 Rate
+DPERSAKR,Numeric,8,District 2015 Retention: Special Ed KG Rate
+DAUND15C,Numeric,8,District 2015 Underreported Students: Count
+DAUND15D,Numeric,8,District 2015 Underreported Students: Gr. 7-12 Total
+DAUND15R,Numeric,8,District 2015 Underreported Students: Rate
+DPETDISC,Numeric,8,District 2015 DAEP: Count
+DPETDISD,Numeric,8,District 2015 DAEP: Denominator
+DPETDISP,Numeric,8,District 2015 DAEP: Percent

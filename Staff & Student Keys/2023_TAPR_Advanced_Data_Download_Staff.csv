@@ -1,0 +1,121 @@
+NAME,TYPE,LENGTH,LABEL
+DISTRICT,Character,6,District Number
+DISTNAME,Character,75,District Name
+DPFEIERP,Numeric,8,District 2022 Finance: Instructional Expenditures Ratio
+DPSAINHP,Numeric,8,District 2023 Staff: Percent Of Instructional Hours
+DPSAMIFC,Numeric,8,District 2023 Staff: All Staff Minority Full Time Equiv Count
+DPSAMIFP,Numeric,8,District 2023 Staff: All Staff Minority Full Time Equiv Percent
+DPSATOFC,Numeric,8,District 2023 Staff: All Staff Total Full Time Equiv Count
+DPSBTOFC,Numeric,8,District 2023 Staff: Librarian Total Full Time Equiv Count
+DPSBTOPC,Numeric,8,District 2023 Staff: Librarian Total Part Time Equiv Count
+DPSCTOFC,Numeric,8,District 2023 Staff: Central Admin Total Full Time Equiv Count
+DPSCTOFP,Numeric,8,District 2023 Staff: Central Admin Total Full Time Equiv Percent
+DPSCTOSA,Numeric,8,District 2023 Staff: Central Admin Total Base Salary Average
+DPSCTOST,Numeric,8,District 2023 Staff: Central Admin Total Base Salary Total
+DPSECOFC,Numeric,8,District 2023 Staff: SSA Educational Aides Full Time Equiv Count
+DPSETOFC,Numeric,8,District 2023 Staff: Educ Aide Total Full Time Equiv Count
+DPSETOFP,Numeric,8,District 2023 Staff: Educ Aide Total Full Time Equiv Percent
+DPSHEXPA,Numeric,8,District 2023 Staff: Principal Experience Average
+DPSHEXPT,Numeric,8,District 2023 Staff: Principal Experience Total
+DPSHFTEC,Numeric,8,District 2023 Staff: Principal Count
+DPSHTENA,Numeric,8,District 2023 Staff: Principal Tenure Average
+DPSHTENT,Numeric,8,District 2023 Staff: Principal Tenure Total
+DPSLEXPA,Numeric,8,District 2023 Staff: Assistant Principal Experience Average
+DPSLEXPT,Numeric,8,District 2023 Staff: Assistant Principal Experience Total
+DPSLFTEC,Numeric,8,District 2023 Staff: Assistant Principal Count
+DPSLTENA,Numeric,8,District 2023 Staff: Assistant Principal Tenure Average
+DPSLTENT,Numeric,8,District 2023 Staff: Assistant Principal Tenure Total
+DPSOTOFC,Numeric,8,District 2023 Staff: Contract Serv Total Full Time Equiv Count
+DPSPCOFC,Numeric,8,District 2023 Staff: SSA Professional Staff Full Time Equiv Count
+DPSPTOFC,Numeric,8,District 2023 Staff: Professional Total Full Time Equiv Count
+DPSPTOFP,Numeric,8,District 2023 Staff: Professional Total Full Time Equiv Percent
+DPSRTOFC,Numeric,8,District 2023 Staff: Counselor Total Full Time Equiv Count
+DPSRTOPC,Numeric,8,District 2023 Staff: Counselor Total Part Time Equiv Count
+DPSSTOFC,Numeric,8,District 2023 Staff: School Admin Total Full Time Equiv Count
+DPSSTOFP,Numeric,8,District 2023 Staff: School Admin Total Full Time Equiv Percent
+DPSSTOSA,Numeric,8,District 2023 Staff: School Admin Total Base Salary Average
+DPSSTOST,Numeric,8,District 2023 Staff: School Admin Total Base Salary Total
+DPST00FC,Numeric,8,District 2023 Staff: Teacher Beginning Full Time Equiv Count
+DPST00FP,Numeric,8,District 2023 Staff: Teacher Beginning Full Time Equiv Percent
+DPST00SA,Numeric,8,District 2023 Staff: Teacher Beginning Base Salary Average
+DPST00ST,Numeric,8,District 2023 Staff: Teacher Beginning Base Salary Total
+DPST01FC,Numeric,8,District 2023 Staff: Teacher 1-5 Years Full Time Equiv Count
+DPST01FP,Numeric,8,District 2023 Staff: Teacher 1-5 Years Full Time Equiv Percent
+DPST01SA,Numeric,8,District 2023 Staff: Teacher 1-5 Years Base Salary Average
+DPST01ST,Numeric,8,District 2023 Staff: Teacher 1-5 Years Base Salary Total
+DPST06FC,Numeric,8,District 2023 Staff: Teacher 6-10 Years Full Time Equiv Count
+DPST06FP,Numeric,8,District 2023 Staff: Teacher 6-10 Years Full Time Equiv Percent
+DPST06SA,Numeric,8,District 2023 Staff: Teacher 6-10 Years Base Salary Average
+DPST06ST,Numeric,8,District 2023 Staff: Teacher 6-10 Years Base Salary Total
+DPST11FC,Numeric,8,District 2023 Staff: Teacher 11-20 Years Full Time Equiv Count
+DPST11FP,Numeric,8,District 2023 Staff: Teacher 11-20 Years Full Time Equiv Percent
+DPST11SA,Numeric,8,District 2023 Staff: Teacher 11-20 Years Base Salary Average
+DPST11ST,Numeric,8,District 2023 Staff: Teacher 11-20 Years Base Salary Total
+DPST21FC,Numeric,8,District 2023 Staff: Teacher 21-30 Years Full Time Equiv Count
+DPST21FP,Numeric,8,District 2023 Staff: Teacher 21-30 Years Full Time Equiv Percent
+DPST21SA,Numeric,8,District 2023 Staff: Teacher 21-30 Years Base Salary Average
+DPST21ST,Numeric,8,District 2023 Staff: Teacher 21-30 Years Base Salary Total
+DPST30FC,Numeric,8,District 2023 Staff: Teacher > 30 Years Full Time Equiv Count
+DPST30FP,Numeric,8,District 2023 Staff: Teacher > 30 Years Full Time Equiv Percent
+DPST30SA,Numeric,8,District 2023 Staff: Teacher > 30 Years Base Salary Average
+DPST30ST,Numeric,8,District 2023 Staff: Teacher > 30 Years Base Salary Total
+DPSTASFC,Numeric,8,District 2023 Staff: Teacher Asian Full Time Equiv Count
+DPSTASFP,Numeric,8,District 2023 Staff: Teacher Asian Full Time Equiv Percent
+DPSTBAFC,Numeric,8,District 2023 Staff: Teacher BA Degree Full Time Equiv Count
+DPSTBAFP,Numeric,8,District 2023 Staff: Teacher BA Degree Full Time Equiv Percent
+DPSTBIFC,Numeric,8,District 2023 Staff: Teacher Bilingual Program Full Time Equiv Count
+DPSTBIFP,Numeric,8,District 2023 Staff: Teacher Bilingual Program Full Time Equiv Percent
+DPSTBLFC,Numeric,8,District 2023 Staff: Teacher African American Full Time Equiv Count
+DPSTBLFP,Numeric,8,District 2023 Staff: Teacher African American Full Time Equiv Percent
+DPSTCOFC,Numeric,8,District 2023 Staff: Teacher Compensatory Program Full Time Equiv Count
+DPSTCOFP,Numeric,8,District 2023 Staff: Teacher Compensatory Program Full Time Equiv Percent
+DPSTEXPA,Numeric,8,District 2023 Staff: Teacher Experience Average
+DPSTEXPT,Numeric,8,District 2023 Staff: Teacher Experience Total
+DPSTFEFC,Numeric,8,District 2023 Staff: Teacher Female Full Time Equiv Count
+DPSTFEFP,Numeric,8,District 2023 Staff: Teacher Female Full Time Equiv Percent
+DPSTFTEC,Numeric,8,District 2023 Staff: Teacher Total Full Time Equiv - Experience Calculation
+DPSTGIFC,Numeric,8,District 2023 Staff: Teacher Gifted & Talented Program Full Time Equiv Count
+DPSTGIFP,Numeric,8,District 2023 Staff: Teacher Gifted & Talented Program Full Time Equiv Percent
+DPSTHIFC,Numeric,8,District 2023 Staff: Teacher Hispanic Full Time Equiv Count
+DPSTHIFP,Numeric,8,District 2023 Staff: Teacher Hispanic Full Time Equiv Percent
+DPSTINFC,Numeric,8,District 2023 Staff: Teacher American Indian Full Time Equiv Count
+DPSTINFP,Numeric,8,District 2023 Staff: Teacher American Indian Full Time Equiv Percent
+DPSTKIDR,Numeric,8,District 2023 Staff: Teacher Student Ratio
+DPSTMAFC,Numeric,8,District 2023 Staff: Teacher Male Full Time Equiv Count
+DPSTMAFP,Numeric,8,District 2023 Staff: Teacher Male Full Time Equiv Percent
+DPSTMSFC,Numeric,8,District 2023 Staff: Teacher MS Degree Full Time Equiv Count
+DPSTMSFP,Numeric,8,District 2023 Staff: Teacher MS Degree Full Time Equiv Percent
+DPSTNOFC,Numeric,8,District 2023 Staff: Teacher No Degree Full Time Equiv Count
+DPSTNOFP,Numeric,8,District 2023 Staff: Teacher No Degree Full Time Equiv Percent
+DPSTOPFC,Numeric,8,District 2023 Staff: Teacher Other Full Time Equiv Count
+DPSTOPFP,Numeric,8,District 2023 Staff: Teacher Other Full Time Equiv Percent
+DPSTPHFC,Numeric,8,District 2023 Staff: Teacher PH Degree Full Time Equiv Count
+DPSTPHFP,Numeric,8,District 2023 Staff: Teacher PH Degree Full Time Equiv Percent
+DPSTPIFC,Numeric,8,District 2023 Staff: Teacher Pacific Islander Full Time Equiv Count
+DPSTPIFP,Numeric,8,District 2023 Staff: Teacher Pacific Islander Full Time Equiv Percent
+DPSTREFC,Numeric,8,District 2023 Staff: Teacher Regular Program Full Time Equiv Count
+DPSTREFP,Numeric,8,District 2023 Staff: Teacher Regular Program Full Time Equiv Percent
+DPSTSPFC,Numeric,8,District 2023 Staff: Teacher Special Education Full Time Equiv Count
+DPSTSPFP,Numeric,8,District 2023 Staff: Teacher Special Education Full Time Equiv Percent
+DPSTTENA,Numeric,8,District 2023 Staff: Teacher Tenure Average
+DPSTTENT,Numeric,8,District 2023 Staff: Teacher Tenure Total
+DPSTTOFC,Numeric,8,District 2023 Staff: Teacher Total Full Time Equiv Count
+DPSTTOFP,Numeric,8,District 2023 Staff: Teacher Total Full Time Equiv Percent
+DPSTTOSA,Numeric,8,District 2023 Staff: Teacher Total Base Salary Average
+DPSTTOST,Numeric,8,District 2023 Staff: Teacher Total Base Salary Total
+DPSTTWFC,Numeric,8,District 2023 Staff: Teacher Two or more races Full Time Equiv Count
+DPSTTWFP,Numeric,8,District 2023 Staff: Teacher Two or more races Full Time Equiv Percent
+DPSTURND,Numeric,8,District 2023 Staff: Teacher Turnover Denominator
+DPSTURNN,Numeric,8,District 2023 Staff: Teacher Turnover Numerator
+DPSTURNR,Numeric,8,District 2023 Staff: Teacher Turnover Ratio
+DPSTVOFC,Numeric,8,District 2023 Staff: Teacher Career & Technical Prgms Full Time Equiv Count
+DPSTVOFP,Numeric,8,District 2023 Staff: Teacher Career & Technical Prgms Full Time Equiv Percent
+DPSTWHFC,Numeric,8,District 2023 Staff: Teacher White Full Time Equiv Count
+DPSTWHFP,Numeric,8,District 2023 Staff: Teacher White Full Time Equiv Percent
+DPSUTOFC,Numeric,8,District 2023 Staff: Support Total Full Time Equiv Count
+DPSUTOFP,Numeric,8,District 2023 Staff: Support Total Full Time Equiv Percent
+DPSUTOSA,Numeric,8,District 2023 Staff: Support Total Base Salary Average
+DPSUTOST,Numeric,8,District 2023 Staff: Support Total Base Salary Total
+DPSXCOFC,Numeric,8,District 2023 Staff: SSA Auxiliary Staff Full Time Equiv Count
+DPSXTOFC,Numeric,8,District 2023 Staff: Auxiliary Total Full Time Equiv Count
+DPSXTOFP,Numeric,8,District 2023 Staff: Auxiliary Total Full Time Equiv Percent
